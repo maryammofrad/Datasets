@@ -60,7 +60,6 @@ CHIC006UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Chico, CA"
 CINC139UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Cincinnati, OH-KY-IN",17140,4.3,4.3,4.4,4.4,4.4,4.4,4.5,4.5,4.6,4.6,4.36,4.52
 CLHUR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Clarksville, TN-KY",17300,4.2,4.3,4.4,4.4,4.4,4.4,4.3,4.2,4.1,4.1,4.34,4.22
 CLEV447UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Cleveland, TN",17420,3.9,4,4.1,4.1,4,4,3.9,3.8,3.7,3.7,4.02,3.82
-CLEV439UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Cleveland-Elyria, OH",17460,4.1,4,3.9,3.8,3.8,,,,,,3.92,#DIV/0!
 COEU616UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Coeur d'Alene, ID",17660,4.5,4.5,4.5,4.5,4.5,4.5,4.4,4.4,4.4,4.4,4.5,4.42
 COLL748UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"College Station-Bryan, TX",17780,3.5,3.5,3.5,3.5,3.5,3.4,3.5,3.5,3.5,3.5,3.5,3.48
 COLO808UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Colorado Springs, CO",17820,4.5,4.6,4.7,4.7,4.6,4.7,4.8,4.7,4.8,4.8,4.62,4.76
@@ -71,12 +70,9 @@ COLU018UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Columbus, 
 COLU139UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Columbus, OH",18140,4.1,4.1,4.1,4.1,4.1,4.2,4.3,4.4,4.5,4.6,4.1,4.4
 CORP548UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Corpus Christi, TX",18580,4.5,4.4,4.4,4.4,4.4,4.3,4.3,4.3,4.3,4.3,4.42,4.3
 CORV741UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Corvallis, OR",18700,3.6,3.7,3.8,3.8,3.8,3.9,4,4,3.9,3.9,3.74,3.94
-CUMB024UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Cumberland, MD-WV",19060,3.8,3.8,3.9,4,4,,,,,,3.9,#DIV/0!
 DALL148UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Dallas-Fort Worth-Arlington, TX",19100,4,4,4,3.9,3.9,3.9,3.9,3.8,3.8,3.8,3.96,3.84
 DALT113UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Dalton, GA",19140,4.1,4,4,4,4,3.9,3.8,3.8,3.7,3.7,4.02,3.78
-DANV117UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Danville, IL",19180,6.6,6.7,6.7,6.6,6.4,,,,,,6.6,#DIV/0!
 DAVE317UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Davenport-Moline-Rock Island, IA-IL",19340,5,5,5,4.9,4.9,4.8,4.7,4.5,4.4,4.5,4.96,4.58
-DAYT339UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Dayton, OH",19380,4.7,4.7,4.5,4.5,4.5,,,,,,4.58,#DIV/0!
 DECA401UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Decatur, AL",19460,2.8,2.9,2.9,2.9,2.9,2.8,2.8,2.8,2.8,2.7,2.88,2.78
 DECA517UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Decatur, IL",19500,5.9,5.7,5.7,5.6,5.6,5.5,5.5,5.4,5.3,5.3,5.7,5.4
 DELT612UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Deltona-Daytona Beach-Ormond Beach, FL",19660,4,4,4,4,4,4,4.1,4.1,4.2,4.2,4,4.12
@@ -187,7 +183,6 @@ LOIUR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Louisville/Jef
 LUBB148UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Lubbock, TX",31180,3.6,3.6,3.6,3.6,3.6,3.5,3.5,3.5,3.4,3.5,3.6,3.48
 LYNC351UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Lynchburg, VA",31340,3.3,3.3,3.3,3.3,3.3,3.3,3.4,3.5,3.6,3.7,3.3,3.5
 MACO413UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Macon-Bibb County, GA",31420,4.4,4.4,4.3,4.3,4.3,4.2,4.2,4.2,4.2,4.1,4.34,4.18
-MADE406UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Madera, CA",31460,7.8,7.8,7.9,7.9,7.9,,,,,,7.86,#DIV/0!
 MADI555UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Madison, WI",31540,2.4,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.5,2.6,2.48,2.52
 MANS939UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Mansfield, OH",31900,5.1,5.1,5.1,5.1,5.1,5.1,5.2,5.4,5.5,5.6,5.1,5.36
 MCAL548UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"McAllen-Edinburg-Mission, TX",32580,6.1,6.1,6.1,6.1,6.1,5.9,5.9,5.9,5.9,6.1,6.1,5.94
@@ -214,11 +209,9 @@ MYRT845UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Myrtle Bea
 NAPA906UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Napa, CA",34900,4,4,4,4,4,3.9,3.9,3.9,4,4,4,3.94
 NAPL912UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Naples-Immokalee-Marco Island, FL",34940,3.4,3.4,3.4,3.4,3.4,3.5,3.7,3.8,3.9,3.9,3.4,3.76
 NASH947UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Nashville-Davidson--Murfreesboro--Franklin, TN",34980,3,3.1,3.1,3.1,3.1,3.1,3.1,3,2.9,2.9,3.08,3
-NEWO322UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"New Orleans-Metairie, LA",35380,4,4,4.1,4.3,4.4,,,,,,4.16,#DIV/0!
 NEWY636UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"New York-Newark-Jersey City, NY-NJ-PA",35620,4.7,4.7,4.7,4.7,4.7,4.6,4.5,4.4,4.4,4.3,4.7,4.44
 NILE626UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Niles-Benton Harbor, MI",35660,5.4,5.5,5.6,5.6,5.5,5.6,5.7,5.8,5.8,5.8,5.52,5.74
 OCAL112UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Ocala, FL",36100,4.4,4.4,4.3,4.3,4.3,4.3,4.4,4.4,4.5,4.5,4.34,4.42
-OCEA134UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Ocean City, NJ",36140,7.6,7.6,7.6,7.6,7.5,,,,,,7.58,#DIV/0!
 ODES248UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Odessa, TX",36220,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6,3.6
 OGDE249UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Ogden-Clearfield, UT",36260,3.1,3.1,3.1,3.1,3.1,3,3,3,3,3,3.1,3
 OKLA440UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Oklahoma City, OK",36420,3.1,3.1,3.1,3.1,3.1,3.1,3.1,3.1,3,2.9,3.1,3.04
@@ -235,12 +228,10 @@ PENS812UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Pensacola-
 PEOR917UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Peoria, IL",37900,4.9,4.8,4.7,4.7,4.7,4.6,4.6,4.4,4.3,4.3,4.76,4.44
 PHIL942UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",37980,3.9,3.9,3.9,3.9,3.9,3.9,3.9,4,4,4.1,3.9,3.98
 PHOE004UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Phoenix-Mesa-Scottsdale, AZ",38060,3.4,3.4,3.4,3.4,3.4,3.4,3.4,3.5,3.5,3.6,3.4,3.48
-PBFUR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Pine Bluff, AR",38220,4.7,4.6,4.7,4.8,4.9,,,,,,4.74,#DIV/0!
 PITT342UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Pittsburgh, PA",38300,3.7,3.7,3.7,3.7,3.7,3.8,3.8,3.8,3.8,3.9,3.7,3.82
 POCA516UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Pocatello, ID",38540,4.1,4.1,4.1,4.1,4.1,4.1,4,3.9,3.9,3.8,4.1,3.94
 PORT941UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Portland-Vancouver-Hillsboro, OR-WA",38900,4,4.1,4.2,4.2,4.2,4.3,4.4,4.5,4.4,4.5,4.14,4.42
 PORT912UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Port St. Lucie, FL",38940,3.9,3.9,3.9,3.9,3.9,3.9,4,4.1,4.1,4.2,3.9,4.06
-PRES104UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Prescott, AZ",39140,3.2,3.3,3.3,3.4,3.4,,,,,,3.32,#DIV/0!
 PROV349UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Provo-Orem, UT",39340,3.4,3.4,3.4,3.4,3.4,3.3,3.2,3.1,3.1,3.2,3.4,3.18
 PUEB308UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Pueblo, CO",39380,6.2,6.3,6.4,6.4,6.3,6.3,6.3,6.2,6.2,6.2,6.32,6.24
 PUNT412UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Punta Gorda, FL",39460,4.3,4.3,4.4,4.4,4.4,4.5,4.6,4.6,4.6,4.7,4.36,4.6
@@ -279,7 +270,6 @@ SANT006UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Santa Mari
 SANT206UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Santa Rosa, CA",42220,4.2,4.3,4.3,4.3,4.3,4.2,4.2,4.1,4.1,4.1,4.28,4.14
 SAVA313UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Savannah, GA",42340,3.2,3.1,3.1,3.1,3.1,3,3,3.1,3.1,3,3.12,3.04
 SCRA542UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Scranton--Wilkes-Barre--Hazleton, PA",42540,4.3,4.3,4.2,4.2,4.2,4.3,4.3,4.3,4.4,4.4,4.24,4.34
-SEAT653UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Seattle-Tacoma-Bellevue, WA",42660,4.7,4.6,4.5,4.5,4.3,,,,,,4.52,#DIV/0!
 SEBA612UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Sebastian-Vero Beach, FL",42680,4.1,4.1,4.2,4.2,4.2,4.3,4.4,4.5,4.5,4.6,4.16,4.46
 SHEB155UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Sheboygan, WI",43100,2.6,2.6,2.6,2.6,2.6,2.6,2.6,2.6,2.7,2.8,2.6,2.66
 SHER348UR,Unemployment Rate by Metropolitan Statistical Area,Percent,"Sherman-Denison, TX",43300,4,4,3.9,3.9,3.9,3.8,3.8,3.7,3.7,3.7,3.94,3.74
