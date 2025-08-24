@@ -5,15 +5,15 @@ student_id,program,college,gmat_score
 4,1-day program,Business,540
 5,10-week course,Business,560
 6,10-week course,Business,600
-7,3-hour review,Engineering,540
-8,3-hour review,Engineering,460
-9,1-day program,Engineering,560
-10,1-day program,Engineering,580
-11,10-week course,Engineering,600
+7,3-hour review,Engineering,545
+8,3-hour review,Engineering,455
+9,1-day program,Engineering,565
+10,1-day program,Engineering,585
+11,10-week course,Engineering,595
 12,10-week course,Engineering,620
 13,3-hour review,Arts and Sciences,450
 14,3-hour review,Arts and Sciences,400
 15,1-day program,Arts and Sciences,420
-16,1-day program,Arts and Sciences,480
+16,1-day program,Arts and Sciences,485
 17,10-week course,Arts and Sciences,480
-18,10-week course,Arts and Sciences,460
+18,10-week course,Arts and Sciences,465
